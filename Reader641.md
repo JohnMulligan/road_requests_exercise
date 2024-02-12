@@ -4,6 +4,17 @@
 
 https://www.loc.gov/collections/wright-brothers-negatives
 
+### My Experience with the Collection
+----
+My familiarity with the Wright brothers drew me to this particular collection[^1]. When I delved into it, I was struck anew by their pioneering spirit and the sheer improbability of their success.
+
+Examining the interfaces, I found each offered distinct value:
+- The portal excelled for one-time explorations, ideal for casual browsing without repetitive tasks.
+- The browser-based JSON, particularly when formatted, provided a clear understanding of the collection's overall structure.
+- Python-based JSON facilitated robust and efficient tasks, like retrieving specific text elements.
+
+While the collection itself held no surprises, it nonetheless served as a valuable reminder of the Wright brothers' remarkable achievements.
+
 ### The Library of Congress Collections Portal
 ----
 This portal contains links to all of the available digital collections which can be filtered and sorted.
@@ -25,10 +36,11 @@ When viewed from the command line the information about the collection is harder
 
 ### General Notes on Exploring JSON Files in Python
 ----
+The following is some general notes on how one may explore a JSON file in python with only access to the standard library. It is by no means an exhaustive list.
 
 **Understanding JSON Structure in Python**
 
-JSON data is represented in Python as nested collections: primarily as dictionaries, lists, and strings. A full breakdown is shown below[^1]:
+JSON data is represented in Python as nested collections: primarily as dictionaries, lists, and strings. A full breakdown is shown below[^2]:
 
 | JSON Type | Python Type | Description |
 |---|---|---|
@@ -101,5 +113,5 @@ Remember that this is a general guide, and you might need to adjust it based on 
 
 
 
-
-[^1]: [json - Encoders and Decoders](https://docs.python.org/3/library/json.html#encoders-and-decoders)
+[^1]: [Wright Brothers Negatives](https://www.loc.gov/collections/wright-brothers-negatives/about-this-collection/)
+[^2]: [json - Encoders and Decoders](https://docs.python.org/3/library/json.html#encoders-and-decoders)
