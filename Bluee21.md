@@ -7,7 +7,7 @@ https://www.loc.gov/collections/african-american-photographs-1900-paris-expositi
 **1. The JSON format**
    -  The data is structured hierarchically, with key-value pairs defining various aspects of each item. This hierarchical structure allows the encapsulation of related information within each container, allowing clarity and organization of the data.
   
-   - Arrays are used effectively to handle cases where there are multiple values associated with a single attribute. For instance, the "subject_headings"  key contains an array of five strings, each representing a different subject related to the item. These subjects include specific topics such as the Tuskegee Normal and Industrial Institute, African American education in Alabama, students in Tuskegee, classrooms in Tuskegee, and the state of Alabama itself.
+   - Arrays are used effectively to handle cases where there are multiple values associated with a single attribute. For instance, the "subject_headings"  key contains an array of five strings, each representing a different subject related to the item. These subjects include specific topics such as the *Tuskegee Normal and Industrial Institute*, *African American Education in Alabama*, *Students in Alabama Tuskegee*, *Classrooms in Alabama Tuskegee*, and the state of *Alabama* itself.
      
    - The dataset showcases the use of complex objects to encapsulate detailed information about each item. For instance, the "item" key contains nested attributes such as "call_number", "control_number", and "created", which offer insights into the bibliographic and archival aspects of the items.
      
