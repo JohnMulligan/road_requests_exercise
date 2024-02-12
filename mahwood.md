@@ -2,7 +2,7 @@ For this assignment i have chosen the _Civil Rights History Project_ collection.
 
 The collect is made up of video files,images and web articles.
 
-### Webpage View
+### Webpage
 
 I like how the site caters to people with disability with the read to me function available on the home pages. While reviewing some of the video interviews I found that the interviewer's, Mr Mosnier, voice was too low at least compared to the interviewee. I had to put in earbubs to hear the question he was asking.
 
