@@ -65,13 +65,13 @@ i. **Public-facing webpages** (Library of Congress collections portal)
 - carousel slider with the collection's featured content
 - filter to sort the collections by (title, date, etc...)
 - view option to change the how the content is displayed to the user
-- each collection is displayed in a container that displays the collection name, title, a breif description, and how many items are in that collection
+- each collection is displayed in a container that displays the collection name, title, a brief description, and how many items are in that collection
 - side bar panel with additional filter links to other parts of the collection to refine the search results
 - page numbers
 - an option to change how many items are displayed on the page at a time 
 
 **Footer:** 
-- reasources, contact information, social media links and copy right logo
+- resources, contact information, social media links and copyright logo
 
   ------
 
@@ -100,10 +100,11 @@ a.  **Header:**
 
 i. - ?fo=json&at=results returns the page content stored in an array called results
 - they're 40 objects (0-39) in this array with nested objects and key-value pairs
-    - an exmaple of these array is description: [_] when expanded shows 0: array that contains a string shown in the body of the about this collection page
+    - an example of these array is description: [_] when expanded shows 0: array that contains a string shown in the body of the about this collection page
 - keys represents different aspects of the collection
 - expanding 0: {...} shows there are a list of objects and key value pairs where each object represents a specific attribute or item of the collection and its corresponding value shows the associated data ( e.g count: 55)
 - the full URL is given to where a photo is located is shown in this view, whereas in the normal webpage view the photo is shown
+- the full URL for the location of a photo is shown in this view, which is unlike the webpage where the photo is displayed
 - the use of boolean values are shown, an example of this is "access_restricted: false" it shows you what is accessible to the public 
 - timestamps of when the data was last edited
 - the data is presented hierarchically, where each object represents an individual item from the collection.
@@ -111,7 +112,7 @@ i. - ?fo=json&at=results returns the page content stored in an array called resu
    
 ii.
 - they're 25 objects (0-24) in this array with nested objects and key value pairs
-- the layout format is identical to the above mentioned with minor chaanges such as less objects 
+- the layout format is identical to the above mentioned with minor changes such as less objects 
 -----
 
 
