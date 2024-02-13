@@ -4,7 +4,7 @@
 
 ### Webpage link: https://www.loc.gov/collections/civil-war-maps/about-this-collection/
 
-In the context of historical research and analysis, the Civil War Maps collection at the Library of Congress has enormous value. The assortment boasts approximately 2,240 maps, charts, and atlases that signify both the Union and Confederate armies during the Civil War.
+In the context of historical research and analysis, the Civil War Maps collection at the Library of Congress has enormous value. The assortment consists of approximately 2,240 maps, charts, and atlases that signify both the Union and Confederate armies during the Civil War.
 
 - **JSON View**: The JSON data view is beneficial for data engineers and researchers who want to extract and analyze bulk data, with much nested components. This view provides a structured and machine-readable format of the vast information available from this collection. However, without a certain level of technical expertise, interpreting JSON data could be challenging for some users.
 Here's the JSON view: https://www.loc.gov/collections/civil-war-maps/?fo=json&at=results
