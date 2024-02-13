@@ -1,8 +1,8 @@
-## Python:  Let's delve into the differences between the 'requests' library and JSON in Python.
+## Python:  Let's delve into the differences between the Command Line and JSON in Python.
 
 # Findings 
 
-1. **Requests Library**:
+1. **Command Line**:
   * The requests library in Python is used for making HTTP requests.
   * It provides an easy-to-use interface to interact with web services and APIs.
   * It allows you to send various types of HTTP requests such as GET, POST, PUT, DELETE, etc.
