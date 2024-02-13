@@ -188,6 +188,15 @@ j['results'][0]['aka']
 # 'http://www.loc.gov/resource/rbc0001.2012vollb22095/']
 ```
 
+## Command-line View
+
+### Interesting Aspects
+- **Control**: The command-line view provides powerful control over computer systems. It's efficient and scriptable.
+
+### Difficulties
+- **Learning Curve**: Command-line interfaces have a steep learning curve. They are not as intuitive as graphical interfaces.
+
+
 # References
 
 [^1]: [Effects of visual and textual information in online product presentations: looking for the best combination in website design](https://doi.org/10.1057/ejis.2010.42)
