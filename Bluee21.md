@@ -47,7 +47,6 @@ With this view keys are enclosed in quotes and followed by a colon, and values c
 
 
 
-
 ------
 
 ## Taking a peek at the dataset
